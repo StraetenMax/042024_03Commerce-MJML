@@ -1,0 +1,21 @@
+<mj-section background-color="#ffffff" padding="0">
+        <mj-group>
+           <mj-column width="300px" padding-bottom="25px">
+           <mj-image align="right" padding="0" src="https://img.mailinblue.com/3403292/images/content_library/original/6616fb3812fbe9e05adb27e5.jpg"  width="110px" alt="Marie Laurence Wallaert, responsable pédagogique Ecosup Commerce" />
+           </mj-column>
+            <mj-column width="300px" padding-bottom="25px">
+                <mj-text align="left" mj-class="D_Text D_RL" padding-left="10px">
+                    <strong>Marie-Laurence <span style="text-transform:uppercase">Wallaert</span></strong>
+                </mj-text>
+                <mj-text align="left" mj-class="D_Text D_RL" padding-left="10px">
+                    Responsable pédagogique
+                </mj-text>
+                <mj-text align="left" mj-class="D_Text D_RL" padding-left="10px">
+                    Ecosup Commerce
+                </mj-text>
+                <mj-text align="left" mj-class="D_Text D_RL" text-transform="uppercase" padding-left="10px">
+                    Tourcoing
+                </mj-text>
+            </mj-column>
+        </mj-group>
+        </mj-section>
